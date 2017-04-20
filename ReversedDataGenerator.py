@@ -1,5 +1,4 @@
-# Integer Ordered Data Generator
-# @author: Harpreet Singh Arora
+
 import csv
 import sys
 
